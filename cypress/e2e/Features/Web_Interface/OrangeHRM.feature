@@ -9,8 +9,8 @@ Feature: OrangeHRM
        #   And I add User Role
          And I select the Employee name "Jacqueline"
         And I select the Status
-          And I create a Username "forTestingrr"
+          And I create a Username "forTestingrrr"
          And I create a Password "9031@Saif"
          And I confirm the Password "9031@Saif"
         And I click on Save button
-        Then Verify User is added "forTestingrr"
+        Then Verify User is added "forTestingrrr"
